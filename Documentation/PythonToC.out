@@ -1,0 +1,24 @@
+\BOOKMARK [0][-]{chapter*.3}{List of Figures}{}% 1
+\BOOKMARK [0][-]{chapter.1}{Introduction to the Python to C compiler}{}% 2
+\BOOKMARK [1][-]{section.1.1}{Python}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.2}{C}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.3}{Python to C compiler}{chapter.1}% 5
+\BOOKMARK [0][-]{chapter.2}{Description of the project}{}% 6
+\BOOKMARK [1][-]{section.2.1}{Restriction on the source language}{chapter.2}% 7
+\BOOKMARK [1][-]{section.2.2}{Symbol table}{chapter.2}% 8
+\BOOKMARK [1][-]{section.2.3}{Scanner using Flex}{chapter.2}% 9
+\BOOKMARK [2][-]{subsection.2.3.1}{The "indentation problem"}{section.2.3}% 10
+\BOOKMARK [1][-]{section.2.4}{Abstract syntax tree}{chapter.2}% 11
+\BOOKMARK [1][-]{section.2.5}{Parser using Bison}{chapter.2}% 12
+\BOOKMARK [2][-]{subsection.2.5.1}{The auxiliary functions section of the parser}{section.2.5}% 13
+\BOOKMARK [1][-]{section.2.6}{The evaluation of the AST}{chapter.2}% 14
+\BOOKMARK [1][-]{section.2.7}{Type assignment of Python vs. Type declaration of C}{chapter.2}% 15
+\BOOKMARK [1][-]{section.2.8}{The definition of a user function}{chapter.2}% 16
+\BOOKMARK [0][-]{chapter.3}{Test cases}{}% 17
+\BOOKMARK [1][-]{section.3.1}{Valid source program}{chapter.3}% 18
+\BOOKMARK [2][-]{subsection.3.1.1}{Test 1}{section.3.1}% 19
+\BOOKMARK [2][-]{subsection.3.1.2}{Test 2}{section.3.1}% 20
+\BOOKMARK [2][-]{subsection.3.1.3}{Conclusions}{section.3.1}% 21
+\BOOKMARK [1][-]{section.3.2}{Invalid source program}{chapter.3}% 22
+\BOOKMARK [2][-]{subsection.3.2.1}{Error-Test 1}{section.3.2}% 23
+\BOOKMARK [2][-]{subsection.3.2.2}{Error-Test 2}{section.3.2}% 24
