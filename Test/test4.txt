@@ -1,0 +1,6 @@
+def funzione() :
+	x=7
+	if(x>=1):
+		a=x*x
+	
+print "ciao"

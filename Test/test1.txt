@@ -1,0 +1,12 @@
+a=4
+x=3
+while(x>0):
+	if(a==4):
+		print "Hello"
+		x=x-1
+	else:
+		print "World"
+		x=x-1
+	
+d=raw_input("Insert something")
+print d

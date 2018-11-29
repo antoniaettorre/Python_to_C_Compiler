@@ -1,0 +1,29 @@
+x=30
+if (x>0):
+	a=1 
+	print "If"
+	print "ciao"
+	print "hello"
+elif (x<1):
+	c=1
+	print "elif1"
+elif (x<2):
+	c=2
+	print "elif2"
+elif (x<3):
+	c=3
+	print "elif3"
+elif (x<4):
+	c=4
+	print "elif4"
+elif (x<5):
+	c=5
+	print "elif5"
+else:
+	a=2
+	print "else"
+
+print "Ciao mondo"
+print "Seconda fuori"
+
+

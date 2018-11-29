@@ -1,0 +1,11 @@
+def funzione() :
+	x=0
+	if(x>=1):
+		a=x*x
+	else:
+		a=x
+	
+
+print "ciao"
+b=0
+d=b*b
